@@ -8,7 +8,7 @@ A fully-featured 32-bit counter implementation featuring:
 - Complete verification flow with Icarus/GTKWave
 ## 🔧 Block Diagram
 
-![Block Diagram](docs/counter_block_diagram.png)
+![Block Diagram](docs/block_diagram.png)
 
 ---
 
