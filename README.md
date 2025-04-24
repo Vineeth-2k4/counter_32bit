@@ -6,7 +6,7 @@ A fully-featured 32-bit counter implementation featuring:
 - **Self-checking testbench** with assertion-based verification
 - **Magic VLSI** physical implementation (SkyWater 130nm PDK)
 - Complete verification flow with Icarus/GTKWave
-## 🔧 Block Diagram
+## 🧱 Block Diagram
 
 ![Block Diagram](docs/block_diagram.png)
 
