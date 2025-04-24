@@ -6,6 +6,18 @@ A fully-featured 32-bit counter implementation featuring:
 - **Self-checking testbench** with assertion-based verification
 - **Magic VLSI** physical implementation (SkyWater 130nm PDK)
 - Complete verification flow with Icarus/GTKWave
+## 🔧 Block Diagram
+
+![Block Diagram](docs/counter_block_diagram.png)
+
+---
+
+## 🧪 Simulation Waveform
+
+![Waveform](docs/waveform.png)
+
+---
+
 
 ## ✨ Key Features
 - **RTL Design**
